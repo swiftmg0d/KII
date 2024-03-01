@@ -1,3 +1,3 @@
 # KII
-## КонтинуирContinuous Integration and Delivery-2023/2024/S
+## Continuous Integration and Delivery-2023/2024/S
 
